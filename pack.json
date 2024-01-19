@@ -1,1 +1,10 @@
-
+{
+  "name": "relaxing noise",
+  "description": "windmill noise credit to https://youtu.be/jQEh9auVAnM?si=u91w4Lmgp54i7zrS",
+  "author": "gyvyvyvyvyv",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
